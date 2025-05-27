@@ -1,0 +1,33 @@
+header{
+    background-color: #4D41CB;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.dsmovie-nav-content h1{
+    margin:0;
+    font-weight: 700;
+    font-size: 24px;
+}
+.dsmovie-div-content{
+    display: flex;
+    align-items: center;
+}
+.dsmovie-icon-content{
+    height: 20px;
+    weight: 20px;
+    margin-left: 88%;
+}
+
+.dsmovie-p-content{
+    font-size: 12px;
+    margin-top: 14px;
+}
