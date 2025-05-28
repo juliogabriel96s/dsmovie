@@ -1,0 +1,45 @@
+.dsmovie-form-container{
+    max-width: 480px;
+    margin: 40px auto;
+    padding: 20px;
+    align-itens: center;
+}
+
+.dsmovie-movie-card-image{
+     width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h3{
+    margin-left: 28%;
+}
+
+.dsmovie-form{
+    width: calc(100% - 20px);
+}
+
+.dsmovie-form-group{
+    margin-bottom: 20px;
+}
+
+.dsmovie-form-group label{
+    font-size: 12px;
+    color: #aaa
+}
+
+.btn-salvar{
+    display: flex;
+    justify-content: center;
+    margin-left: 160px
+}
+
+.btn-cancelar{
+    display: flex;
+    justify-content: center;
+    margin-left: 153px
+}
+
+
+
